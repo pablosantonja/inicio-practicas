@@ -1,5 +1,4 @@
 # Actividades
-# Actividades
 * .[1_Sitioweb] (https://pablosantonja.github.io/P1-LLOCWEB/)
 * .[2_CMYK] (https://pablosantonja.github.io/P2-CMYK/)
 * .[3_Broom] (https://pablosantonja.github.io/P3-BROOM/)
