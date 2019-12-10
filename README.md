@@ -1,11 +1,12 @@
 # Actividades
-* .[1_Sitioweb] ()
+# Actividades
+* .[1_Sitioweb] (https://pablosantonja.github.io/P1-LLOCWEB/)
 * .[2_CMYK] (https://pablosantonja.github.io/P2-CMYK/)
-* .[3_Broom] ()
-* .[4_Maquetacion] ()
-* .[6_Tarjetas] ()
-* .[7_landing Pages] ()
-* .[8_Practica MOMA] ()
+* .[3_Broom] (https://pablosantonja.github.io/P3-BROOM/)
+* .[4_Maquetacion] (https://pablosantonja.github.io/P4-MAQUETACIO/)
+* .[5_Tarjetas] (https://pablosantonja.github.io/P5-tarjeta/)
+* .[6_landing Pages] (https://pablosantonja.github.io/P6-LANDING-PAGE/)
+* .[7_Practica MOMA] ()
 
 ## Pàginas clase
 * [Pàginas clase 2GP](https://arquesm.github.io/2GP/)
