@@ -1,12 +1,11 @@
-# inicio-practicas
 # Actividades
-* .[1_Sitioweb] (https://pablosantonja.github.io/P1-LLOCWEB/)
-* .[2_CMYK]
-* .[3_Broom]
-* .[4_Maquetacion]
-* .[6_Tarjetas]
-* .[7_landing Pages]
-* .[8_Practica MOMA]
+* .[1_Sitioweb] ()
+* .[2_CMYK] (https://pablosantonja.github.io/P2-CMYK/)
+* .[3_Broom] ()
+* .[4_Maquetacion] ()
+* .[6_Tarjetas] ()
+* .[7_landing Pages] ()
+* .[8_Practica MOMA] ()
 
 ## Pàginas clase
 * [Pàginas clase 2GP](https://arquesm.github.io/2GP/)
