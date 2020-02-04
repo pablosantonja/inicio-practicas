@@ -8,7 +8,7 @@
 * .[7_grid] (https://pablosantonja.github.io/P7-GRID/)
 * .[8_] ()
 * .[9_examen_] (https://pablosantonja.github.io/examen/)
-* .[10_ PABLO , PAULA , JÚLIA ] (https://pablosantonja.github.io/15_MENU/)
+* .[10_ PABLO , PAULA , JÚLIA ] (https://pablosantonja.github.io/15_-MENU-GRUP/)
 
 ## Pàginas clase
 * [Pàginas clase 2GP](https://arquesm.github.io/2GP/)
