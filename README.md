@@ -11,7 +11,7 @@
 * .[10_ PABLO , PAULA , JÚLIA ] (https://pablosantonja.github.io/15_-MENU-GRUP/)
 * .[11_ AESOP ] (https://pablosantonja.github.io/Aesop_/)
 * .[12_ Portfolio ] (https://pablosantonja.github.io/PORTFOLIO/)
-* .[13_ javascript parella ](https://pablosantonja.github.io/javascript-parella/)
+* .[13_ javascript parella ]  (https://pablosantonja.github.io/javascript-parella/)
 
 
 ## Pàginas clase
