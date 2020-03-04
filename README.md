@@ -12,6 +12,7 @@
 * .[11_ AESOP ] (https://pablosantonja.github.io/Aesop_/)
 * .[12_ Portfolio ] (https://pablosantonja.github.io/PORTFOLIO/)
 * .[13_ javascript parella ]  (https://pablosantonja.github.io/javascript-parella/)
+* .[14_examen2_] (https://pablosantonja.github.io/examen2/)
 
 
 ## Pàginas clase
